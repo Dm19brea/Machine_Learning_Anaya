@@ -1,0 +1,33 @@
+Preguntas:
+
+1 - Es la ciencia de programar ordenadores para que aprendan a partir de datos.
+
+2 - .Analizar imagenes de productos en cadenas de producción para clasificarlas de forma automática
+    .Detectar tumores en escáneres cerebrales.
+    .Resumir documentos largos de forma automática
+    .Detectar fraudes con tarjetas de crédito.
+
+3 - Es un conjunto de datos que ya tienen establecido su resultado es decir tienen una etiqueta.
+
+4 - Clasificación y regresión
+
+5 - .Algoritmos de agrupamiento para detectar grupos similares.
+    .Algoritmos de visualización.
+    .Reducción de la dimensionalidad.
+    .Detectar anomalías.
+
+6 - Aprendizaje por refuerzo.
+
+7 - Aprendizaje no supervisado.
+
+8 - Aprendizaje supervisado.
+
+9 - Un modelo se entrena y se lanza a producción y, después, sigue aprendiendo a medida que entran nuevos datos.
+
+10 - Algoritmos de aprendizaje online que se utilizan para entrenar sistemas en conjuntos de datos enormes que no caben en memoria principal.
+
+11 - Algritmos basados en instancias.
+
+12 - Los parámetros de un modelo son los valores internos que un modelo aprende directamente de los datos durante el proceso de entrenamiento. Estos parámetros son ajustados automáticamente por el algoritmo para minimizar la función de pérdida y mejorar el rendimiento del modelo.
+     Los hiperparámetros son los valores configurables que controlan el comportamiento del modelo y del proceso de aprendizaje. Estos no son aprendidos del entrenamiento, sino que deben ser definidos antes del entrenamiento del modelo. Los hiperparámetros influyen en la estructura del modelo o en el proceso de ajuste de los parámetros.
+ 
